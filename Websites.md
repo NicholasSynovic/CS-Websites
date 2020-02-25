@@ -82,3 +82,4 @@
 |https://www.tensorflow.org/                |Tensorflow               	|
 |https://scikit-learn.org/stable/           |Scikit-learn             	|
 |https://github.com/ziishaned/learn-regex   |Learn Regex				|
+|https://youtu.be/aircAruvnKk               |Series about Neural Networks|

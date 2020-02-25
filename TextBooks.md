@@ -9,6 +9,6 @@
 |The Go Programming Language				 https://www.gopl.io/
 |Learning PHP						         https://github.com/manithchhuon/the-best-php-books/blob/master/books/Learning%20PHP%207.pdf
 |C#8.0 and .NET Core 3.0					 https://github.com/markjprice/cs8dotnetcore3
-
+|Learning how Neural Networks Work           http://neuralnetworksanddeeplearning.com/
 
 
